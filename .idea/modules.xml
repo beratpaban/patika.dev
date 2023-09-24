@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Patika.dev.iml" filepath="$PROJECT_DIR$/.idea/Patika.dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" filepath="$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/chinese_zodiac/chinese_zodiac.iml" filepath="$PROJECT_DIR$/Java/chinese_zodiac/chinese_zodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/leap_year/leap_year.iml" filepath="$PROJECT_DIR$/Java/leap_year/leap_year.iml" />
     </modules>
   </component>
 </project>

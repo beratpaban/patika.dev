@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate Power">
-      <change afterPath="$PROJECT_DIR$/Java/armstrong/armstrong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/armstrong/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate digits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <workItem from="1695654888586" duration="66000" />
       <workItem from="1695654956207" duration="32000" />
       <workItem from="1695655037398" duration="420000" />
-      <workItem from="1695655859746" duration="590000" />
+      <workItem from="1695655859746" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -167,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695656160815</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Calculate digits">
+      <option name="closed" value="true" />
+      <created>1695656602231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695656602231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +199,8 @@
     <MESSAGE value="Calculate Combination" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="Calculate Power" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculate Power" />
+    <MESSAGE value="Calculate digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculate digits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

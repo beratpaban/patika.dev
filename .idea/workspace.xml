@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate Combination" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate Combination">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/airplane_ticket/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chinese_zodiac/chinese_zodiac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chinese_zodiac/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/combination_calculate/combination_calculate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/combination_calculate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/exponential_number/exponential_number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/exponential_number/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/leap_year/leap_year.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/leap_year/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/mode_calculate/mode_calculate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/mode_calculate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/odd_sum/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +49,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2Vnapj0R2zEDEKPArP95Dn40gag" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -39,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,6 +98,9 @@
       <workItem from="1695547969608" duration="4593000" />
       <workItem from="1695636993106" duration="121000" />
       <workItem from="1695652629348" duration="880000" />
+      <workItem from="1695654781860" duration="105000" />
+      <workItem from="1695654888586" duration="66000" />
+      <workItem from="1695654956207" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />

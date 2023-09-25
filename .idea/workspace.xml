@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate Combination">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="minor changes">
+      <change afterPath="$PROJECT_DIR$/Java/calculate_power/calculate_power.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/calculate_power/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/airplane_ticket/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/chinese_zodiac/chinese_zodiac.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/chinese_zodiac/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/combination_calculate/combination_calculate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/combination_calculate/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/exponential_number/exponential_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/exponential_number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/leap_year/leap_year.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/leap_year/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/mode_calculate/mode_calculate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/mode_calculate/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/odd_sum/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +47,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
@@ -73,9 +57,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/paban/Desktop/Patika.dev/Java/find_even_number/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -101,6 +85,8 @@
       <workItem from="1695654781860" duration="105000" />
       <workItem from="1695654888586" duration="66000" />
       <workItem from="1695654956207" duration="32000" />
+      <workItem from="1695655037398" duration="420000" />
+      <workItem from="1695655859746" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -166,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695652861402</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1695655336529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695655336529</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +186,8 @@
     <MESSAGE value="Find even number's sum untill odd number" />
     <MESSAGE value="4 and 5's powers" />
     <MESSAGE value="Calculate Combination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculate Combination" />
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

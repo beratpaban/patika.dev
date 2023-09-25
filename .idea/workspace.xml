@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find min and max num" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="create triangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1695654956207" duration="32000" />
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
-      <workItem from="1695670815152" duration="1595000" />
+      <workItem from="1695670815152" duration="1906000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -212,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695672566530</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Find perfect number">
+      <option name="closed" value="true" />
+      <created>1695672771732</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695672771732</updated>
+    </task>
+    <task id="LOCAL-00018" summary="create triangle">
+      <option name="closed" value="true" />
+      <created>1695672923457</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695672923457</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +262,9 @@
     <MESSAGE value="Atm App" />
     <MESSAGE value="Ebob ekok hesaplama" />
     <MESSAGE value="Find min and max num" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find min and max num" />
+    <MESSAGE value="Find perfect number" />
+    <MESSAGE value="create triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="create triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

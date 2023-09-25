@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Ebob ekok hesaplama" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find min and max num" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1695654956207" duration="32000" />
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
-      <workItem from="1695670815152" duration="1287000" />
+      <workItem from="1695670815152" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -204,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695672358588</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Find min and max num">
+      <option name="closed" value="true" />
+      <created>1695672566530</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695672566530</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +245,8 @@
     <MESSAGE value="Diamond" />
     <MESSAGE value="Atm App" />
     <MESSAGE value="Ebob ekok hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ebob ekok hesaplama" />
+    <MESSAGE value="Find min and max num" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find min and max num" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

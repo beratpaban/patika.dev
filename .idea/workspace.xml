@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Calculate Power">
-      <change afterPath="$PROJECT_DIR$/Java/find_primenum_with_recursive/find_primenum_with_recursive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/find_primenum_with_recursive/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find Prime" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +83,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="1729000" />
+      <workItem from="1695757549891" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -273,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695760468279</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Find Prime">
+      <option name="closed" value="true" />
+      <created>1695760672913</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1695760672913</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +317,8 @@
     <MESSAGE value="Palidorm number" />
     <MESSAGE value="Calculator" />
     <MESSAGE value="Calculate Power" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculate Power" />
+    <MESSAGE value="Find Prime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Prime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/min_max/min_max.iml" filepath="$PROJECT_DIR$/Java/min_max/min_max.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/mode_calculate/mode_calculate.iml" filepath="$PROJECT_DIR$/Java/mode_calculate/mode_calculate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" filepath="$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/palindrom_number/palindrom_number.iml" filepath="$PROJECT_DIR$/Java/palindrom_number/palindrom_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
     </modules>
   </component>

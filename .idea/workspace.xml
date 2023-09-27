@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Salary Calculate">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/airplane_ticket/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/airplane_ticket/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Harmonic avarage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="8367000" />
+      <workItem from="1695757549891" duration="8834000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -312,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695813123320</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Harmonic avarage">
+      <option name="closed" value="true" />
+      <created>1695814296322</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1695814296322</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +336,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Chinese Zoidac calculate" />
     <MESSAGE value="Leap Year Calculate" />
     <MESSAGE value="Find mode" />
     <MESSAGE value="Find even number's sum untill odd number" />
@@ -356,7 +360,8 @@
     <MESSAGE value="Student information system basics" />
     <MESSAGE value="Box match with chance" />
     <MESSAGE value="Salary Calculate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Salary Calculate" />
+    <MESSAGE value="Harmonic avarage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Harmonic avarage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

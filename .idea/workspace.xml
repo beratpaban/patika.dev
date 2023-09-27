@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find Prime" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Desene göre metor">
+      <change afterPath="$PROJECT_DIR$/Java/obs/obs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/obs/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/obs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/obs/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/obs/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +91,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="2375000" />
+      <workItem from="1695757549891" duration="4536000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -277,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695760672913</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Desene göre metor">
+      <option name="closed" value="true" />
+      <created>1695761317327</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1695761317327</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +334,8 @@
     <MESSAGE value="Calculator" />
     <MESSAGE value="Calculate Power" />
     <MESSAGE value="Find Prime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Prime" />
+    <MESSAGE value="Desene göre metor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desene göre metor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

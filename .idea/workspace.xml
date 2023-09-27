@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Harmonic avarage" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find max and min" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +83,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="8834000" />
+      <workItem from="1695757549891" duration="9173000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -317,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695814296322</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Find max and min">
+      <option name="closed" value="true" />
+      <created>1695814841988</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1695814841988</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +344,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Leap Year Calculate" />
     <MESSAGE value="Find mode" />
     <MESSAGE value="Find even number's sum untill odd number" />
     <MESSAGE value="4 and 5's powers" />
@@ -361,7 +368,8 @@
     <MESSAGE value="Box match with chance" />
     <MESSAGE value="Salary Calculate" />
     <MESSAGE value="Harmonic avarage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harmonic avarage" />
+    <MESSAGE value="Find max and min" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find max and min" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

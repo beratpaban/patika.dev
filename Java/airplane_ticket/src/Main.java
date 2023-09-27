@@ -48,5 +48,6 @@ public class Main {
         else {
             System.out.println("Toplam tutar: "+totalPrice+"₺");
         }
+
     }
 }

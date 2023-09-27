@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Desene göre metor">
-      <change afterPath="$PROJECT_DIR$/Java/obs/obs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/obs/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/obs/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/obs/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/obs/src/Teacher.java" afterDir="false" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Student information system basics">
+      <change afterPath="$PROJECT_DIR$/Java/box_chance/box_chance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -91,7 +91,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="4536000" />
+      <workItem from="1695757549891" duration="5262000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -293,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695761317327</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Student information system basics">
+      <option name="closed" value="true" />
+      <created>1695808106268</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1695808106268</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +343,8 @@
     <MESSAGE value="Calculate Power" />
     <MESSAGE value="Find Prime" />
     <MESSAGE value="Desene göre metor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desene göre metor" />
+    <MESSAGE value="Student information system basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student information system basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

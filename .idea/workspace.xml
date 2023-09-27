@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find max and min" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Wiret b">
+      <change afterPath="$PROJECT_DIR$/Java/find_repeatevennums/find_repeatevennums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/find_repeatevennums/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +88,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="9173000" />
+      <workItem from="1695757549891" duration="9784000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -325,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695814841988</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Wiret b">
+      <option name="closed" value="true" />
+      <created>1695814999972</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1695814999972</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +357,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Find mode" />
     <MESSAGE value="Find even number's sum untill odd number" />
     <MESSAGE value="4 and 5's powers" />
     <MESSAGE value="Calculate Combination" />
@@ -369,7 +381,8 @@
     <MESSAGE value="Salary Calculate" />
     <MESSAGE value="Harmonic avarage" />
     <MESSAGE value="Find max and min" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find max and min" />
+    <MESSAGE value="Wiret b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wiret b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

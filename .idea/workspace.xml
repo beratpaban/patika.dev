@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Student information system basics">
-      <change afterPath="$PROJECT_DIR$/Java/box_chance/box_chance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/box_chance/src/Ring.java" afterDir="false" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Box match with chance">
+      <change afterPath="$PROJECT_DIR$/Java/salary_calculate/salary_calculate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/salary_calculate/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/salary_calculate/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -91,7 +89,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="5262000" />
+      <workItem from="1695757549891" duration="7232000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -301,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695808106268</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Box match with chance">
+      <option name="closed" value="true" />
+      <created>1695809872168</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1695809872168</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +350,8 @@
     <MESSAGE value="Find Prime" />
     <MESSAGE value="Desene göre metor" />
     <MESSAGE value="Student information system basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student information system basics" />
+    <MESSAGE value="Box match with chance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Box match with chance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

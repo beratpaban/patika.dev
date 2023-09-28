@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Reverse sort array">
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find repeat nums in arr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="11462000" />
+      <workItem from="1695757549891" duration="12384000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -351,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695822947874</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Find repeat nums in arr">
+      <option name="closed" value="true" />
+      <created>1695885148833</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1695885148833</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +378,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Calculate Combination" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="Calculate digits" />
     <MESSAGE value="Calculate harmonic number" />
@@ -395,7 +402,8 @@
     <MESSAGE value="Wiret b" />
     <MESSAGE value="Find Even nums" />
     <MESSAGE value="Reverse sort array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse sort array" />
+    <MESSAGE value="Find repeat nums in arr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find repeat nums in arr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

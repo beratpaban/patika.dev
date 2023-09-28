@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Minefield/Minefield.iml" filepath="$PROJECT_DIR$/Java/Minefield/Minefield.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" filepath="$PROJECT_DIR$/Java/airplane_ticket/airplane_ticket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/armstrong/armstrong.iml" filepath="$PROJECT_DIR$/Java/armstrong/armstrong.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/array_sort/array_sort.iml" filepath="$PROJECT_DIR$/Java/array_sort/array_sort.iml" />

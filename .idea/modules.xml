@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" filepath="$PROJECT_DIR$/Java/odd_sum/odd_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/palindrom_number/palindrom_number.iml" filepath="$PROJECT_DIR$/Java/palindrom_number/palindrom_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/repeatin_array/repeatin_array.iml" filepath="$PROJECT_DIR$/Java/repeatin_array/repeatin_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/salary_calculate/salary_calculate.iml" filepath="$PROJECT_DIR$/Java/salary_calculate/salary_calculate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/write_b/write_b.iml" filepath="$PROJECT_DIR$/Java/write_b/write_b.iml" />
     </modules>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Find Even nums" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Reverse sort array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="10534000" />
+      <workItem from="1695757549891" duration="11462000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -341,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695815697990</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Reverse sort array">
+      <option name="closed" value="true" />
+      <created>1695822947874</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695822947874</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +370,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="4 and 5's powers" />
     <MESSAGE value="Calculate Combination" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="Calculate digits" />
@@ -385,7 +394,8 @@
     <MESSAGE value="Find max and min" />
     <MESSAGE value="Wiret b" />
     <MESSAGE value="Find Even nums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Even nums" />
+    <MESSAGE value="Reverse sort array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse sort array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Polidormic string">
-      <change afterPath="$PROJECT_DIR$/Java/Minefield/Minefield.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Minefield/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Class Uml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,7 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="13990000" />
+      <workItem from="1695757549891" duration="16417000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -386,7 +383,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695889866376</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Minefield">
+      <option name="closed" value="true" />
+      <created>1695890403674</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1695890403674</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Class Uml">
+      <option name="closed" value="true" />
+      <created>1695916177472</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1695916177472</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,8 +418,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Diamond" />
-    <MESSAGE value="Atm App" />
     <MESSAGE value="Ebob ekok hesaplama" />
     <MESSAGE value="Find min and max num" />
     <MESSAGE value="Find perfect number" />
@@ -430,7 +441,9 @@
     <MESSAGE value="Matris" />
     <MESSAGE value="Guess the num" />
     <MESSAGE value="Polidormic string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polidormic string" />
+    <MESSAGE value="Minefield" />
+    <MESSAGE value="Class Uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Uml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

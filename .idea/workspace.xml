@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Class Uml">
+    <list default="true" id="78f2cb3b-91ed-4d94-8b4a-c374176638f5" name="Changes" comment="Elevator">
+      <change afterPath="$PROJECT_DIR$/React/callback.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +87,9 @@
       <workItem from="1695655037398" duration="420000" />
       <workItem from="1695655859746" duration="2445000" />
       <workItem from="1695670815152" duration="3465000" />
-      <workItem from="1695757549891" duration="16417000" />
+      <workItem from="1695757549891" duration="17217000" />
+      <workItem from="1696015848835" duration="75000" />
+      <workItem from="1696015981375" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="airplane ticket calculate">
       <option name="closed" value="true" />
@@ -399,7 +403,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695916177472</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Airplane">
+      <option name="closed" value="true" />
+      <created>1695917549496</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1695917549496</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Elevator">
+      <option name="closed" value="true" />
+      <created>1695917664427</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1695917664427</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,8 +438,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Ebob ekok hesaplama" />
-    <MESSAGE value="Find min and max num" />
     <MESSAGE value="Find perfect number" />
     <MESSAGE value="create triangle" />
     <MESSAGE value="Find prime num" />
@@ -443,22 +461,8 @@
     <MESSAGE value="Polidormic string" />
     <MESSAGE value="Minefield" />
     <MESSAGE value="Class Uml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Uml" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java2/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Java/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Airplane" />
+    <MESSAGE value="Elevator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elevator" />
   </component>
 </project>

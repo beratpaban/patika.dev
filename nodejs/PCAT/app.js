@@ -1,31 +1,51 @@
 const express = require('express');
-const path = require('path')
+const mongoose = require('mongoose');
+
+const Photo = require('./models/Photo');
 
 const app = express();
-const port = 3000;
 
-const myLogger=(req,res,next)=>{
-    console.log('Middleware Log 1');
-    next();
-}
-const myLogger2=(req,res,next)=>{
-    console.log('Middleware Log 2');
-    next();
-}
+//connect db
+mongoose.connect('mongodb://localhost/pcat-test-db', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+app.set('view engine', 'ejs');
+const port = 3000;
 
 //middleware
 app.use(express.static('public'));
-app.use(myLogger);
-app.use(myLogger2);
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
-app.get('/',(req,res)=>{
-    res.sendFile(path.resolve(__dirname,'template/index.html'));
+app.get('/', async (req, res) => {
+  const photos = await Photo.find({});
+  res.render('index', {
+    photos,
+  });
 });
 
-app.listen(port,(req,res)=>{
-    console.log(`Sunucu ${port} portunda başlatıldı.`);
+app.get('/about', (req, res) => {
+  res.render('about');
 });
 
+app.get('/photos/:id', async (req, res) => {
+  const photo = await Photo.findById(req.params.id);
+  res.render('photos', {
+    photo,
+  });
+});
 
+app.get('/add', (req, res) => {
+  res.render('add');
+});
 
- 
+app.post('/photos', async (req, res) => {
+  await Photo.create(req.body);
+  res.redirect('/');
+});
+
+app.listen(port, (req, res) => {
+  console.log(`Sunucu ${port} portunda başlatıldı.`);
+});
